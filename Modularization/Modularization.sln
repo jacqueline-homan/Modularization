@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{f2a71f9b-5d33-465a-a702-920d77279786}") = "Modularization", "Modularization.fsproj", "{F1A8AF82-613D-4CAA-BAF8-965EA60A45AD}"
+EndProject
+Project("{f2a71f9b-5d33-465a-a702-920d77279786}") = "Calculator.Tests", "Calculator.Tests\Calculator.Tests.fsproj", "{ACECC675-66C3-472E-B53A-D92DDA26E39F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACECC675-66C3-472E-B53A-D92DDA26E39F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{ACECC675-66C3-472E-B53A-D92DDA26E39F}.Debug|x86.Build.0 = Debug|Any CPU
+		{ACECC675-66C3-472E-B53A-D92DDA26E39F}.Release|x86.ActiveCfg = Release|Any CPU
+		{ACECC675-66C3-472E-B53A-D92DDA26E39F}.Release|x86.Build.0 = Release|Any CPU
+		{F1A8AF82-613D-4CAA-BAF8-965EA60A45AD}.Debug|x86.ActiveCfg = Debug|x86
+		{F1A8AF82-613D-4CAA-BAF8-965EA60A45AD}.Debug|x86.Build.0 = Debug|x86
+		{F1A8AF82-613D-4CAA-BAF8-965EA60A45AD}.Release|x86.ActiveCfg = Release|x86
+		{F1A8AF82-613D-4CAA-BAF8-965EA60A45AD}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
